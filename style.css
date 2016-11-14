@@ -3,7 +3,7 @@ background-color: #efebe8;
 }
 @fontface{
   font-family: 'Century Gothic', 'arial', 'sans serif'; 
-  src: url(GOTHICC.TTF)
+  src: url(GOTHICC.TTF);
 }
 header {
 border-style: solid;
