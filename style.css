@@ -1,6 +1,9 @@
 body {
 background-color: #efebe8;
-font: 'Century Gothic', 'arial', 'sans serif';  
+}
+@fontface{
+  font-family: 'Century Gothic', 'arial', 'sans serif'; 
+  src: url(GOTHICC.TTF)
 }
 header {
 
