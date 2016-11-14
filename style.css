@@ -9,6 +9,7 @@ header {
 border-style: solid;
 border-width: medium;
 border-radius: 25px;
+background-color: #7ec0ee;
 }
 .contact-info {
 text-align: center;
@@ -20,6 +21,7 @@ h2 {
 border-style: solid;
 border-width: thin;
 padding: 15px;
+border-radius: 25px;
 }
 li {
 margin: 15px
@@ -32,4 +34,9 @@ opacity: 0.75;
 h3 {
 font-weight: bold;
 text-decoration: underline;
+
+}
+h4 {
+padding-left: 15%;
+
 }
