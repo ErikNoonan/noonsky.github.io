@@ -11,3 +11,6 @@ header {
 .contact-info {
 text-align: center;
 }
+#contact-info {
+list-style-type: none;
+}
