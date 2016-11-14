@@ -8,6 +8,7 @@ background-color: #efebe8;
 header {
 border-style: solid;
 border-width: medium;
+border-radius: 25px;
 }
 .contact-info {
 text-align: center;
