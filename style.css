@@ -18,6 +18,7 @@ list-style-type: none;
 h2 {
 border-style: solid;
 border-width: thin;
+padding: 15px;
 }
 li {
 margin: 15px
