@@ -6,7 +6,8 @@ background-color: #efebe8;
   src: url(GOTHICC.TTF)
 }
 header {
-border: 1px;
+border-style: solid;
+border-width: 1px;
 }
 .contact-info {
 text-align: center;
